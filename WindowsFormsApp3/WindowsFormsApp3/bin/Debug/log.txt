@@ -1,0 +1,37 @@
+2026-10-14 16:53:49.539 - Navigating to: google.com
+2026-10-14 16:54:12.216 - Navigating to: bing.com
+2026-10-14 17:01:32.754 - Navigating to: 
+2026-10-14 17:01:38.039 - Navigating to: wikipedia
+2026-10-14 17:01:40.015 - Navigating to: wikipedia
+2026-10-14 17:07:40.680 - Uj kulcsszo: majom
+2026-10-14 17:09:11.602 - Navigated to home page: 
+2026-10-14 17:09:26.388 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:28.426 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:29.454 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:30.782 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:31.471 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:31.618 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:31.683 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:31.852 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:32.073 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:32.861 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:33.018 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:33.165 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:56.754 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:57.680 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:57.935 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:11:58.019 - Navigated to: http://wikipedia
+2026-10-14 17:12:09.094 - Navigated to: http://majom
+2026-10-14 17:12:21.243 - Blocked site attempt: http://facebook
+2026-10-14 17:12:28.411 - Blocked site attempt: http://twitter
+2026-10-14 17:12:44.155 - Uj kulcsszo: majom
+2026-10-14 17:12:47.036 - Blocked site attempt: http://majom
+2026-10-14 17:12:52.274 - Navigated to: http://bing
+2026-10-14 17:13:01.679 - Navigated to: https://www.bing.com/search?q=bing.com
+2026-10-14 17:13:18.366 - Navigated back: https://www.bing.com/search?q=bing.com&rdr=1&rdrig=96B75AD0236A40288AD8FD042A2905A8
+2026-10-14 17:13:18.710 - Navigated back: https://www.bing.com/search?q=bing.com
+2026-10-14 17:13:19.714 - Navigated back: http://bing/
+2026-10-14 17:13:28.800 - Navigated to: https://www.bing.com/search?q=wikipedia.com
+2026-10-14 17:13:35.390 - Navigated to home page: https://www.bing.com/search?q=wikipedia.com
+2026-10-14 17:14:22.261 - Navigated to: https://www.bing.com/search?q=wikipedia
+2026-10-14 17:14:33.029 - Navigated to: https://www.bing.com/search?q=macska
